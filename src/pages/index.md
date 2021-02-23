@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Education is a right for everyone
-    subtitle: Around (..)% of
+    subtitle: >-
+      Around (..)% of children in Nepal do not get a chance to step foot in
+      school because of poverty.
     actions:
       - label: Learn More
         url: /features
